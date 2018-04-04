@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\bin\Debug\TTTestAverage.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\obj\Debug\TTTestAverage.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\obj\Debug\TTTestAverage.formTestAverage.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\obj\Debug\TTTestAverage.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\obj\Debug\TTTestAverage.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\bin\Debug\TTTestAverage.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\bin\Debug\TTTestAverage.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\obj\Debug\TTTestAverage.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTTestAverage\TTTestAverage\obj\Debug\TTTestAverage.pdb

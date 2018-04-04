@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\bin\Debug\TTLanguageTranslator.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\bin\Debug\TTLanguageTranslator.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\bin\Debug\TTLanguageTranslator.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\obj\Debug\TTLanguageTranslator.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\obj\Debug\TTLanguageTranslator.LanguageTranslatorForm.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\obj\Debug\TTLanguageTranslator.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\obj\Debug\TTLanguageTranslator.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\obj\Debug\TTLanguageTranslator.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTLanguageTranslator\TTLanguageTranslator\obj\Debug\TTLanguageTranslator.pdb

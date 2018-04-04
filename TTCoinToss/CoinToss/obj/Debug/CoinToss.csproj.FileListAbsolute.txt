@@ -1,0 +1,11 @@
+c:\users\kim\documents\visual studio 2015\Projects\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.csprojResolveAssemblyReference.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\bin\Debug\CoinToss.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\bin\Debug\CoinToss.pdb
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.pdb
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCoinToss\CoinToss\obj\Debug\CoinToss.CoinTossForm.resources

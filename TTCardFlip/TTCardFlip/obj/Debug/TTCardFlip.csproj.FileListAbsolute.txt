@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTCardFlip\TTCardFlip\bin\Debug\TTCardFlip.exe.config
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\bin\Debug\TTCardFlip.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\bin\Debug\TTCardFlip.pdb
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\obj\Debug\TTCardFlip.csprojResolveAssemblyReference.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\obj\Debug\TTCardFlip.CardFlipForm.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\obj\Debug\TTCardFlip.Properties.Resources.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\obj\Debug\TTCardFlip.csproj.GenerateResource.Cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\obj\Debug\TTCardFlip.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTCardFlip\TTCardFlip\obj\Debug\TTCardFlip.pdb

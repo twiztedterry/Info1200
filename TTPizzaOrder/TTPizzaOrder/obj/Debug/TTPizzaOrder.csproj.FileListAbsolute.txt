@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\bin\Debug\TTPizzaOrder.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\bin\Debug\TTPizzaOrder.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\bin\Debug\TTPizzaOrder.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\obj\Debug\TTPizzaOrder.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\obj\Debug\TTPizzaOrder.PizzaOrderForm.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\obj\Debug\TTPizzaOrder.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\obj\Debug\TTPizzaOrder.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\obj\Debug\TTPizzaOrder.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTPizzaOrder\TTPizzaOrder\obj\Debug\TTPizzaOrder.pdb

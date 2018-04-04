@@ -1,0 +1,10 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\bin\Debug\TTMyGradeApp.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\bin\Debug\TTMyGradeApp.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\bin\Debug\TTMyGradeApp.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.MainForm.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.studentProfileForm.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTMyGradeApp\TTMyGradeApp\obj\Debug\TTMyGradeApp.pdb

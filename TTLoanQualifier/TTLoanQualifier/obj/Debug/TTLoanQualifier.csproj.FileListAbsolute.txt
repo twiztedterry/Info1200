@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\bin\Debug\TTLoanQualifier.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\obj\Debug\TTLoanQualifier.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\obj\Debug\TTLoanQualifier.Form1.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\obj\Debug\TTLoanQualifier.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\obj\Debug\TTLoanQualifier.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\bin\Debug\TTLoanQualifier.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\bin\Debug\TTLoanQualifier.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\obj\Debug\TTLoanQualifier.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTLoanQualifier\TTLoanQualifier\obj\Debug\TTLoanQualifier.pdb

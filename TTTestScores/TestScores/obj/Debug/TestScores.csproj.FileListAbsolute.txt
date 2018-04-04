@@ -1,0 +1,22 @@
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\bin\Debug\TestScores.exe.config
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\bin\Debug\TestScores.exe
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\bin\Debug\TestScores.pdb
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\obj\Debug\TestScores.csprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\obj\Debug\TestScores.testscoreForm.resources
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\obj\Debug\TestScores.Properties.Resources.resources
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\obj\Debug\TestScores.csproj.GenerateResource.Cache
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\obj\Debug\TestScores.exe
+c:\users\kim\documents\visual studio 2012\Projects\TestScores\TestScores\obj\Debug\TestScores.pdb
+C:\Users\Kim\Desktop\TestScores\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\Kim\Desktop\TestScores\TestScores\obj\Debug\TestScores.exe
+C:\Users\Kim\Desktop\TestScores\TestScores\obj\Debug\TestScores.pdb
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\bin\Debug\TestScores.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\bin\Debug\TestScores.pdb
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.csprojResolveAssemblyReference.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.testscoreForm.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.Properties.Resources.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.csproj.GenerateResource.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTTestScores\TestScores\obj\Debug\TestScores.pdb

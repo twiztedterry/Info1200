@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\bin\Debug\Mockup.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\bin\Debug\Mockup.exe
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\bin\Debug\Mockup.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\obj\Debug\Mockup.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\obj\Debug\Mockup.Form1.resources
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\obj\Debug\Mockup.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\obj\Debug\Mockup.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\obj\Debug\Mockup.exe
+c:\users\tterry\documents\visual studio 2013\Projects\Mockup\Mockup\obj\Debug\Mockup.pdb

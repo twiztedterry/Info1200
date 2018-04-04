@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\bin\Debug\TTPayroll.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\bin\Debug\TTPayroll.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\bin\Debug\TTPayroll.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\obj\Debug\TTPayroll.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\obj\Debug\TTPayroll.Payroll.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\obj\Debug\TTPayroll.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\obj\Debug\TTPayroll.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\obj\Debug\TTPayroll.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTPayroll\TTPayroll\obj\Debug\TTPayroll.pdb

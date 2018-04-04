@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTAccountBalance\TTAccountBalance\bin\Debug\TTAccountBalance.exe.config
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\bin\Debug\TTAccountBalance.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\bin\Debug\TTAccountBalance.pdb
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\obj\Debug\TTAccountBalance.csprojResolveAssemblyReference.cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\obj\Debug\TTAccountBalance.Form1.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\obj\Debug\TTAccountBalance.Properties.Resources.resources
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\obj\Debug\TTAccountBalance.csproj.GenerateResource.Cache
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\obj\Debug\TTAccountBalance.exe
+C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTAccountBalance\TTAccountBalance\obj\Debug\TTAccountBalance.pdb

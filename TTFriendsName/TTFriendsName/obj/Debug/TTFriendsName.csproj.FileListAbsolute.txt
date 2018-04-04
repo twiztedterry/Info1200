@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\bin\Debug\TTFriendsName.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\obj\Debug\TTFriendsName.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\obj\Debug\TTFriendsName.formFriendFile.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\obj\Debug\TTFriendsName.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\obj\Debug\TTFriendsName.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\bin\Debug\TTFriendsName.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\bin\Debug\TTFriendsName.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\obj\Debug\TTFriendsName.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTFriendsName\TTFriendsName\obj\Debug\TTFriendsName.pdb

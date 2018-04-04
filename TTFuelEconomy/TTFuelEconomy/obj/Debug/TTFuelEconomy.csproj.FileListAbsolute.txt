@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\bin\Debug\TTFuelEconomy.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\bin\Debug\TTFuelEconomy.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\bin\Debug\TTFuelEconomy.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\obj\Debug\TTFuelEconomy.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\obj\Debug\TTFuelEconomy.formMPG.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\obj\Debug\TTFuelEconomy.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\obj\Debug\TTFuelEconomy.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\obj\Debug\TTFuelEconomy.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTFuelEconomy\TTFuelEconomy\obj\Debug\TTFuelEconomy.pdb

@@ -1,0 +1,9 @@
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\bin\Debug\TTBuyingCar.exe.config
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\bin\Debug\TTBuyingCar.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\bin\Debug\TTBuyingCar.pdb
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\obj\Debug\TTBuyingCar.csprojResolveAssemblyReference.cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\obj\Debug\TTBuyingCar.Form1.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\obj\Debug\TTBuyingCar.Properties.Resources.resources
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\obj\Debug\TTBuyingCar.csproj.GenerateResource.Cache
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\obj\Debug\TTBuyingCar.exe
+c:\users\tterry\documents\visual studio 2013\Projects\TTBuyingCar\TTBuyingCar\obj\Debug\TTBuyingCar.pdb

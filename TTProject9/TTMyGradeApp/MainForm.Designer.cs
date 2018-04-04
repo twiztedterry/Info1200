@@ -37,6 +37,7 @@
             this.btnTimer = new System.Windows.Forms.Button();
             this.btnStudyLog = new System.Windows.Forms.Button();
             this.btnGradingMethods = new System.Windows.Forms.Button();
+            this.btnAddCourse = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblName
@@ -129,11 +130,22 @@
             this.btnGradingMethods.UseVisualStyleBackColor = true;
             this.btnGradingMethods.Click += new System.EventHandler(this.btnGradingMethods_Click);
             // 
+            // btnAddCourse
+            // 
+            this.btnAddCourse.Location = new System.Drawing.Point(100, 100);
+            this.btnAddCourse.Name = "btnAddCourse";
+            this.btnAddCourse.Size = new System.Drawing.Size(75, 23);
+            this.btnAddCourse.TabIndex = 9;
+            this.btnAddCourse.Text = "&Add Course";
+            this.btnAddCourse.UseVisualStyleBackColor = true;
+            this.btnAddCourse.Click += new System.EventHandler(this.btnAddCourse_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(187, 222);
+            this.Controls.Add(this.btnAddCourse);
             this.Controls.Add(this.btnGradingMethods);
             this.Controls.Add(this.btnStudyLog);
             this.Controls.Add(this.btnTimer);
@@ -161,6 +173,7 @@
         private System.Windows.Forms.Button btnTimer;
         private System.Windows.Forms.Button btnStudyLog;
         private System.Windows.Forms.Button btnGradingMethods;
+        private System.Windows.Forms.Button btnAddCourse;
     }
 }
 

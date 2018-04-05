@@ -95,3 +95,20 @@ C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\ob
 C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\obj\Debug\TTMyGradeApp.StudyLog.resources
 C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.GenerateResource.cache
 C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.CoreCompileInputs.cache
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.csprojResolveAssemblyReference.cache
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.AddCourse.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.GradingMethodsForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.LetterGradeForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.MainForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.Properties.Resources.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.QuizTimerForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.ScoringMethodsForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.studentProfileForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.StudyLog.resources
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.GenerateResource.Cache
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.CoreCompileInputs.cache
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.exe
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.pdb
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\bin\Debug\TTMyGradeApp.exe.config
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\bin\Debug\TTMyGradeApp.exe
+C:\Users\twizt\Source\Repos\Info1200\TTProject9\TTMyGradeApp\bin\Debug\TTMyGradeApp.pdb

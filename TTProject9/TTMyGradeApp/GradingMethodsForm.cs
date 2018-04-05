@@ -2,8 +2,8 @@
 // Class: (INFO 1200)
 // Section: (001)
 // Professor: (Crandall)
-// Date: 3/28/2018
-// Project #: 8A
+// Date: 4/04/2018
+// Project #: 9A
 // I declare that the source code contained in this assignment was written solely by me.
 // I understand that copying any source code, in whole or in part,
 // constitutes cheating, and that I will receive a zero on this project
@@ -23,6 +23,30 @@ namespace TTMyGradeApp
 {
     public partial class GradingMethodsForm : Form
     {
+        //backing fields for transferring data between forms.
+        private string _letter;
+        private double _grade;
+
+        /// <summary>
+        /// establishing grade as a property
+        /// </summary>
+        public double Grade
+        {
+            //get and set for grade property
+            get { return _grade; }
+            set { _grade = value; }
+        }
+        /// <summary>
+        /// establishing letter as a property 
+        /// </summary>
+        public string Letter
+        {
+            //get and set for the letter property
+            get { return _letter; }
+            set { _letter = value; }
+        }
+
+
         //cosnstant for project weight
         const double PROJECTS_VALUE = .45;
         //constant for exam weight
@@ -95,6 +119,14 @@ namespace TTMyGradeApp
                         LetterGrade(finalscore, ref grade);
                         //run the grade report method
                         GradeReport(finalscore, grade);
+
+                        //set the form properties to the grade and letter
+                        //finalscore = grade percentage
+                        this.Grade = finalscore;
+                        //grade = lettergrade
+                        this.Letter = grade;
+                        //closes the form
+                        this.Close();
 
                     }
                 }
@@ -312,6 +344,10 @@ namespace TTMyGradeApp
             //sets final score by math
             finalscore = ((projectavg * PROJECTS_VALUE) + (examavg * EXAMS_VALUE) + (quizavg * QUIZZES_VALUE))*100;
 
+            //rounds the final score to 2 decimal places
+            finalscore = Math.Round(finalscore, 2);
+
+
             //returns finalscore
             return finalscore;
 
@@ -404,49 +440,9 @@ namespace TTMyGradeApp
         /// <param name="grade"></param>
         public void GradeReport(double finalscore, string grade)
         {
-            //assings value to the textbox based on grade and letter value.
-            txtboxGradeReport.Text = "Your final grade is " + finalscore.ToString("#.##") + "% for a letter grade of " + grade;
+        ///     //assings value to the textbox based on grade and letter value.
+        ///     txtboxGradeReport.Text = "Your final grade is " + finalscore.ToString("#.##") + "% for a letter grade of " + grade;
         }
-        /// <summary>
-        /// clears all boxes when pressed
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnClear_Click(object sender, EventArgs e)
-        {
-            //clears the exam 1 box
-            txtboxExam1.Text = "";
-            //clears the exam2 box
-            txtboxExam2.Text = "";
-            //clears the grade report box
-            txtboxGradeReport.Text = "";
-            //clears the project1 box
-            txtboxProject1.Text = "";
-            //clears the project2 box
-            txtboxProject2.Text = "";
-            //clears the project3 box
-            txtboxProject3.Text = "";
-            //clears the quiz1 box
-            txtboxQuiz1.Text = "";
-            //clears the quiz2 box
-            txtboxQuiz2.Text = "";
-            //clears the quiz3 box
-            txtboxQuiz3.Text = "";
-            //clears the quiz4 box
-            txtboxQuiz4.Text = "";
-            //sets focus to the project 1 box
-            txtboxProject1.Focus();
-
-        }
-        /// <summary>
-        /// closes the dialog
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void btnClose_Click(object sender, EventArgs e)
-        {
-            //closes the dialog
-            this.Close();
-        }
+      
     }
 }

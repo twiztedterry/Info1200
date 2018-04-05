@@ -58,10 +58,6 @@
             this.lblMaxQuiz2 = new System.Windows.Forms.Label();
             this.lblMaxQuiz3 = new System.Windows.Forms.Label();
             this.lblMaxQuiz4 = new System.Windows.Forms.Label();
-            this.lblReportTitle = new System.Windows.Forms.Label();
-            this.txtboxGradeReport = new System.Windows.Forms.RichTextBox();
-            this.btnClose = new System.Windows.Forms.Button();
-            this.btnClear = new System.Windows.Forms.Button();
             this.btnFindGrade = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -338,45 +334,6 @@
             this.lblMaxQuiz4.TabIndex = 29;
             this.lblMaxQuiz4.Text = "15";
             // 
-            // lblReportTitle
-            // 
-            this.lblReportTitle.AutoSize = true;
-            this.lblReportTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblReportTitle.Location = new System.Drawing.Point(13, 210);
-            this.lblReportTitle.Name = "lblReportTitle";
-            this.lblReportTitle.Size = new System.Drawing.Size(83, 13);
-            this.lblReportTitle.TabIndex = 30;
-            this.lblReportTitle.Text = "Grade Report";
-            // 
-            // txtboxGradeReport
-            // 
-            this.txtboxGradeReport.Location = new System.Drawing.Point(16, 227);
-            this.txtboxGradeReport.Name = "txtboxGradeReport";
-            this.txtboxGradeReport.ReadOnly = true;
-            this.txtboxGradeReport.Size = new System.Drawing.Size(259, 60);
-            this.txtboxGradeReport.TabIndex = 31;
-            this.txtboxGradeReport.Text = "";
-            // 
-            // btnClose
-            // 
-            this.btnClose.Location = new System.Drawing.Point(330, 265);
-            this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(75, 23);
-            this.btnClose.TabIndex = 32;
-            this.btnClose.Text = "Close";
-            this.btnClose.UseVisualStyleBackColor = true;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
-            // 
-            // btnClear
-            // 
-            this.btnClear.Location = new System.Drawing.Point(330, 236);
-            this.btnClear.Name = "btnClear";
-            this.btnClear.Size = new System.Drawing.Size(75, 23);
-            this.btnClear.TabIndex = 33;
-            this.btnClear.Text = "Clear";
-            this.btnClear.UseVisualStyleBackColor = true;
-            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
-            // 
             // btnFindGrade
             // 
             this.btnFindGrade.Location = new System.Drawing.Point(320, 191);
@@ -391,12 +348,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(443, 299);
+            this.ClientSize = new System.Drawing.Size(443, 241);
             this.Controls.Add(this.btnFindGrade);
-            this.Controls.Add(this.btnClear);
-            this.Controls.Add(this.btnClose);
-            this.Controls.Add(this.txtboxGradeReport);
-            this.Controls.Add(this.lblReportTitle);
             this.Controls.Add(this.lblMaxQuiz4);
             this.Controls.Add(this.lblMaxQuiz3);
             this.Controls.Add(this.lblMaxQuiz2);
@@ -466,10 +419,6 @@
         private System.Windows.Forms.Label lblMaxQuiz2;
         private System.Windows.Forms.Label lblMaxQuiz3;
         private System.Windows.Forms.Label lblMaxQuiz4;
-        private System.Windows.Forms.Label lblReportTitle;
-        private System.Windows.Forms.RichTextBox txtboxGradeReport;
-        private System.Windows.Forms.Button btnClose;
-        private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnFindGrade;
     }
 }

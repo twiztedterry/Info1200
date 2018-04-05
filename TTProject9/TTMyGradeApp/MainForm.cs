@@ -2,8 +2,8 @@
 // Class: (INFO 1200)
 // Section: (001)
 // Professor: (Crandall)
-// Date: 3/28/2018
-// Project #: 8A
+// Date: 4/04/2018
+// Project #: 9A
 // I declare that the source code contained in this assignment was written solely by me.
 // I understand that copying any source code, in whole or in part,
 // constitutes cheating, and that I will receive a zero on this project
@@ -123,6 +123,21 @@ namespace TTMyGradeApp
 
             //shows as a dialog
             gradingMethods.ShowDialog();
+        }
+
+        /// <summary>
+        /// when pressed, lauches the add course form.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+
+        private void btnAddCourse_Click(object sender, EventArgs e)
+        {
+            //calls the forms constructor
+            AddCourse addCourse = new AddCourse();
+            //shows the form as a dialog
+            addCourse.ShowDialog();
+
         }
     }
 }

@@ -95,19 +95,3 @@ C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\ob
 C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\obj\Debug\TTMyGradeApp.StudyLog.resources
 C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.GenerateResource.cache
 C:\Users\tterry\Documents\Visual Studio 2013\Projects\TTProject8\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.CoreCompileInputs.cache
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.csprojResolveAssemblyReference.cache
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.GradingMethodsForm.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.LetterGradeForm.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.MainForm.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.Properties.Resources.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.QuizTimerForm.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.ScoringMethodsForm.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.studentProfileForm.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.StudyLog.resources
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.GenerateResource.cache
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.csproj.CoreCompileInputs.cache
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.exe
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\obj\Debug\TTMyGradeApp.pdb
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\bin\Debug\TTMyGradeApp.exe.config
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\bin\Debug\TTMyGradeApp.exe
-C:\Users\tterry\Source\Repos\Info1200\TTProject9\TTMyGradeApp\bin\Debug\TTMyGradeApp.pdb

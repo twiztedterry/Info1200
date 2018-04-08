@@ -1,0 +1,28 @@
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\bin\Debug\SeatingChart.exe.config
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.csprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.seatingChartForm.resources
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.Properties.Resources.resources
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.csproj.GenerateResource.Cache
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\bin\Debug\SeatingChart.exe
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\bin\Debug\SeatingChart.pdb
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.exe
+c:\users\kim\documents\visual studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.pdb
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\bin\Debug\SeatingChart.exe.config
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.exe
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.pdb
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.csprojResolveAssemblyReference.cache
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.seatingChartForm.resources
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.Properties.Resources.resources
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\obj\Debug\SeatingChart.csproj.GenerateResource.Cache
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\bin\Debug\SeatingChart.exe
+C:\Users\10006509\Documents\Visual Studio 2012\Projects\SeatingChart\SeatingChart\bin\Debug\SeatingChart.pdb
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.csprojResolveAssemblyReference.cache
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.seatingChartForm.resources
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.Properties.Resources.resources
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.csproj.GenerateResource.cache
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.csproj.CoreCompileInputs.cache
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.exe
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\obj\Debug\SeatingChart.pdb
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\bin\Debug\SeatingChart.exe.config
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\bin\Debug\SeatingChart.exe
+C:\Users\tterry\Source\Repos\Info1200\TTSeatingChart\SeatingChart\bin\Debug\SeatingChart.pdb

@@ -1,0 +1,19 @@
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\bin\Debug\TelephoneFormat.exe.config
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\bin\Debug\TelephoneFormat.exe
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\bin\Debug\TelephoneFormat.pdb
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.csprojResolveAssemblyReference.cache
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.telephoneFormatForm.resources
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.Properties.Resources.resources
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.csproj.GenerateResource.Cache
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.exe
+c:\users\10006509\documents\visual studio 2012\Projects\TelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.pdb
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\bin\Debug\TelephoneFormat.exe.config
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\bin\Debug\TelephoneFormat.exe
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\bin\Debug\TelephoneFormat.pdb
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.csprojResolveAssemblyReference.cache
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.telephoneFormatForm.resources
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.Properties.Resources.resources
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.csproj.GenerateResource.cache
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.csproj.CoreCompileInputs.cache
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.exe
+C:\Users\twizt\Source\Repos\Info1200\TTTelephoneFormat\TelephoneFormat\obj\Debug\TelephoneFormat.pdb

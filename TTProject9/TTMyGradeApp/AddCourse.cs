@@ -2,8 +2,8 @@
 // Class: (INFO 1200)
 // Section: (001)
 // Professor: (Crandall)
-// Date: 4/04/2018
-// Project #: 9A
+// Date: 4/10/2018
+// Project #: 10A
 // I declare that the source code contained in this assignment was written solely by me.
 // I understand that copying any source code, in whole or in part,
 // constitutes cheating, and that I will receive a zero on this project
@@ -11,14 +11,20 @@
 
 using System;
 using System.Windows.Forms;
+using System.IO;
 
 namespace TTMyGradeApp
 {
     public partial class AddCourse : Form
     {
+        //string to hold currentfile name
+        string currentfilename;
+
         public AddCourse()
         {
             InitializeComponent();
+            //sets the value of the currentfilename string variable
+            currentfilename = "Courses.txt";
         }
         /// <summary>
         /// Closes the application when clicked
@@ -27,8 +33,32 @@ namespace TTMyGradeApp
         /// <param name="e"></param>
         private void btnClose_Click(object sender, EventArgs e)
         {
+            //creates the outputfile streamreader object
+            StreamWriter outputfile;
+   
+            //try catch to catch exceptions
+            try
+            {
+                //opens the currentfile for writing
+                outputfile = File.CreateText(currentfilename);
+
+                //for loop to write the file
+                for (int i = 0; i <= listboxCourses.Items.Count; i++)
+                {
+                    //writes each line of the listbox in a loop for as many items as there are.
+                    outputfile.WriteLine(listboxCourses.Items[i].ToString());
+                }
+
+                //closes the outputfile
+                outputfile.Close();
+            }
+            catch
+            {
+                MessageBox.Show("There was a problem writing to the file");
+            }
             //closes the application
             this.Close();
+
         }
         /// <summary>
         /// event handler for the addcourse button
@@ -126,6 +156,49 @@ namespace TTMyGradeApp
                 return false;
             }
 
+        }
+        
+
+        /// <summary>
+        /// load event handler that loads the textdocument when loaded and reads lines from it.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void AddCourse_Load(object sender, EventArgs e)
+        {
+            //establishes the inputfile streamreader object
+            StreamReader inputfile;
+            //creates an entry string to hold text
+            string entry = "";
+            //establishes the inputfile
+            inputfile = File.OpenText(currentfilename);
+
+
+            //try catch block to check if the file exists, will throw an exception error message if there's an issue.
+
+            try
+            {
+                
+                //reads file while note at the end of the stream
+                while (!inputfile.EndOfStream)
+                {
+                    //reads the next line and saves to entry variable
+                    entry = inputfile.ReadLine();
+
+                    //adds entry to listbox
+                    listboxCourses.Items.Add(entry);
+                    
+                }
+
+                //closes the streamreader file.
+                inputfile.Close();
+
+            }
+            catch
+            {
+                //throws an exception window indicating that the file has not been created yet.
+                MessageBox.Show("File has not been created yet");
+            }
         }
     }
 }

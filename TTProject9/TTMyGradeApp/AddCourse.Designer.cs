@@ -129,11 +129,11 @@
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(104, 265);
+            this.btnClose.Location = new System.Drawing.Point(94, 265);
             this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(75, 23);
+            this.btnClose.Size = new System.Drawing.Size(96, 23);
             this.btnClose.TabIndex = 4;
-            this.btnClose.Text = "Close";
+            this.btnClose.Text = "Save and Close";
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
@@ -155,6 +155,7 @@
             this.Controls.Add(this.txtboxCourseName);
             this.Name = "AddCourse";
             this.Text = "Add a Course";
+            this.Load += new System.EventHandler(this.AddCourse_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

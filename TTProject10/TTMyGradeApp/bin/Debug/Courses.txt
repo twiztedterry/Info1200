@@ -1,0 +1,3 @@
+Info 1200,Fall 2014,Crandall,100%,A
+Math 1010,Fall 2014,Smith,74.5%,C
+Info 2420,Fall 2014,Doe,77.5%,C+
